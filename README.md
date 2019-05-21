@@ -1,3 +1,8 @@
+##React Form in Multiple Steps
+1. Used material ui for styling. (Found it a bit complicated to use)
+2. Add page transitions
+3. Add validations
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
