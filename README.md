@@ -1,4 +1,4 @@
-##React Form in Multiple Steps
+## React Form in Multiple Steps
 1. Used material ui for styling. (Found it a bit complicated to use)
 2. Add page transitions
 3. Add validations
